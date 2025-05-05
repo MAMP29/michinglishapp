@@ -4,6 +4,7 @@ import { setData as setDataData, setLoading as setLoadingData, setError as setEr
 import { setData as setDataLinkwords, setLoading as setLoadingLinkwords, setError as setErrorLinkwords } from "./store/linkwords";
 import { setData as setDataVerbs, setLoading as setLoadingVerbs, setError as setErrorVerbs } from "./store/verbs";
 import { setData as setDataAdjectives, setLoading as setLoadingAdjectives, setError as setErrorAdjectives } from "./store/adjectives";
+import { setData as setDataModalsDeduction, setLoading as setLoadingModalsDeduction, setError as setErrorModalsDeduction } from "./store/modalsdeduction";
 import { setData as setDataFirstConditional, setLoading as setLoadingFirstConditional, setError as setErrorFirstConditional } from "./store/firstconditional";
 import AppNavbar from './components/Navbar/AppNavbar';
 import Sidebar from './components/Sidebar/Sidebar';
@@ -61,7 +62,14 @@ function App() {
       setErrorFirstConditional,
       `${import.meta.env.BASE_URL}firstconditional`
     );
-    
+    // Fetch for `Modals Deduction`
+    fetchDataHelper(
+      dispatch,
+      setLoadingModalsDeduction,
+      setDataModalsDeduction,
+      setErrorAdjectives,
+      `${import.meta.env.BASE_URL}modalsdeduction`
+    );
   }, [dispatch]);
 
   const toggleSidebar = () => setShowSidebar(!showSidebar);

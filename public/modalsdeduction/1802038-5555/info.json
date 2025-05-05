@@ -6,157 +6,87 @@
   },
   "topics": [
     {
-      "topic": "verbs",
+      "topic": "modals deduction",
       "questions": [
         {
-          "question": "Choose the correct form of the verb in the sentence: 'She _____ to the gym every morning.'",
+          "question": "She looks tired. She _____ have stayed up late studying.",
           "options": [
-            "go",
-            "goes",
-            "gone",
-            "going"
+            "must",
+            "can",
+            "might",
+            "mustn't"
           ],
-          "answer": "goes"
+          "answer": "must"
         },
         {
-          "question": "Which sentence is grammatically correct?",
+          "question": "He isn’t answering his phone. He _____ be in a meeting.",
           "options": [
-            "He play guitar very well.",
-            "He plays guitar very well.",
-            "He playing guitar very well.",
-            "He played guitar very well every day."
+            "must",
+            "could",
+            "can’t",
+            "might"
           ],
-          "answer": "He plays guitar very well."
+          "answer": "might"
         },
         {
-          "question": "Choose the correct past tense form: 'Yesterday, they _____ a movie at home.'",
+          "question": "That can’t be John. He _____ be in Spain right now!",
           "options": [
-            "watch",
-            "watches",
-            "watched",
-            "watching"
+            "must",
+            "should",
+            "can't",
+            "could"
           ],
-          "answer": "watched"
+          "answer": "can't"
         },
         {
-          "question": "Which sentence uses the future tense correctly?",
+          "question": "You got an A on the test? You _____ have studied a lot!",
           "options": [
-            "She will goes to the store.",
-            "She will go to the store.",
-            "She go to the store tomorrow.",
-            "She going to go to the store."
+            "must",
+            "might",
+            "can't",
+            "shouldn't"
           ],
-          "answer": "She will go to the store."
+          "answer": "must"
         },
         {
-          "question": "Choose the sentence with the correct verb agreement.",
+          "question": "They _____ have arrived already. The lights are still off.",
           "options": [
-            "The dogs barks loudly.",
-            "The dog bark loudly.",
-            "The dog barks loudly.",
-            "The dogs barking loudly."
+            "must",
+            "could",
+            "might",
+            "can't"
           ],
-          "answer": "The dog barks loudly."
+          "answer": "can't"
         },
         {
-          "question": "Complete the sentence with the correct verb: 'They _____ playing football when it started raining.'",
+          "question": "That noise _____ be the wind. There’s no wind today.",
           "options": [
-            "are",
-            "was",
-            "were",
-            "is"
+            "must",
+            "could",
+            "might",
+            "can't"
           ],
-          "answer": "were"
+          "answer": "can't"
         },
         {
-          "question": "Which sentence correctly uses a modal verb?",
+          "question": "She speaks perfect French. She _____ have lived in France.",
           "options": [
-            "She can sings very well.",
-            "She cans sing very well.",
-            "She can sing very well.",
-            "She singing can very well."
+            "must",
+            "should",
+            "can't",
+            "might"
           ],
-          "answer": "She can sing very well."
+          "answer": "must"
         },
         {
-          "question": "What is the correct past participle of the verb 'begin'?",
+          "question": "It’s too early. He _____ be home yet.",
           "options": [
-            "began",
-            "begun",
-            "beganed",
-            "beginning"
+            "must",
+            "should",
+            "can't",
+            "might"
           ],
-          "answer": "begun"
-        },
-        {
-          "question": "Choose the correct verb form: 'If I _____ more time, I would travel the world.'",
-          "options": [
-            "have",
-            "had",
-            "has",
-            "having"
-          ],
-          "answer": "had"
-        },
-        {
-          "question": "Which of the following is a regular verb?",
-          "options": [
-            "run",
-            "swim",
-            "walk",
-            "write"
-          ],
-          "answer": "walk"
-        },
-        {
-          "question": "Which sentence is in the present perfect tense?",
-          "options": [
-            "She eats breakfast.",
-            "She is eating breakfast.",
-            "She has eaten breakfast.",
-            "She ate breakfast."
-          ],
-          "answer": "She has eaten breakfast."
-        },
-        {
-          "question": "What is the correct verb to complete this sentence: 'He _____ English since 2010.'",
-          "options": [
-            "teach",
-            "teached",
-            "has taught",
-            "have taught"
-          ],
-          "answer": "has taught"
-        },
-        {
-          "question": "Choose the correct sentence using an irregular past tense verb.",
-          "options": [
-            "He buyed a new phone.",
-            "He bought a new phone.",
-            "He buys a new phone.",
-            "He was buy a new phone."
-          ],
-          "answer": "He bought a new phone."
-        },
-        {
-          "question": "Which of the following sentences is in passive voice?",
-          "options": [
-            "The chef cooked the meal.",
-            "The meal was cooked by the chef.",
-            "The chef is cooking the meal.",
-            "The meal cooks by the chef."
-          ],
-          "answer": "The meal was cooked by the chef."
-        },
-        {
-          "question": "Choose the correct sentence using 'used to':",
-          "options": [
-            "She used to play piano when she was young.",
-            "She use to play piano when she was young.",
-            "She uses to play piano when she was young.",
-            "She playing used to piano when she was young."
-          ],
-          "answer": "She used to play piano when she was young."
+          "answer": "can't"
         }
       ]
     }
